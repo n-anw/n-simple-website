@@ -1,8 +1,11 @@
 
-p, h1, h2, iframe {
-	text-align:center
-}
+
 
 h1 {
 	border: 25px solid white; 
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
 }
