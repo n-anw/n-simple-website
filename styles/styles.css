@@ -1,5 +1,7 @@
 
-
+body {
+	background: solid black;
+}
 
 h1 {
 	border: 25px solid white; 
